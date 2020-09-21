@@ -1,4 +1,4 @@
-# webServer
+# IOT-web-Server
 # Step 1 : Installing Xampp
 # Step 2 : Create Database
 Copy sensorvn folder to C:\xampp\htdocs </br>
