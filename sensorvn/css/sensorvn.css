@@ -1,0 +1,63 @@
+/*
+* Date : 20/09/2020 19:05:10
+* Author: lxkhanh@bigclass.io
+* Organization: BigClass JSC
+* License: MIT
+*/
+/***** LOGO *****/
+.aligncenter 
+{
+    text-align: center;
+}
+
+/***** TITLE *****/
+h3
+{
+    color:teal;
+    font-size:35px;
+    margin:10px 10px 10px 10px!important;
+    text-align: center;
+}
+.button 
+{
+    background-color: teal; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}  
+.button1 
+{
+    background-color: white; 
+    color: black; 
+    border: 2px solid teal;
+}
+  
+.button1:hover 
+{
+    background-color: teal;
+    color: white;
+}
+  
+
+/***** DATA *****/
+.div1 
+{
+    margin: auto;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+data 
+{
+    color:black;
+}
+date 
+{
+    color:red;
+}
